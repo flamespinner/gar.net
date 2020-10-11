@@ -4,7 +4,7 @@
 - memes lul
 
 ### Manually hosting
-This bot was posted on GitHub to allow others to view the code and host it themselves so that they might add their own inside jokes and such. In order to 
+This bot was posted on GitHub to allow others to view the code and host it themselves so that they might add their own inside jokes and such.
 
 
 Thanks to [flamespinner](https://github.com/flamespinner) and [mcao](https://github.com/mcao) for their help with this project!
